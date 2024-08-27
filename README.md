@@ -18,7 +18,7 @@ The objective of this project is to predict stock prices specifically of Tesla u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/StockPricePrediction.git
+   git clone https://github.com/Aarnav005/StockPricePrediction.git
    ```
 
 2. Navigate to the project directory:

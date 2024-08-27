@@ -18,16 +18,10 @@ The objective of this project is to predict stock prices specifically of Tesla u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Aarnav005/StockPricePrediction.git
+   git clone https://github.com/Aarnav005/Stock-Price-Prediction.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd StockPricePrediction
-   ```
-
-3. Install the required libraries:
+2. Install the required libraries:
 
    ```bash
    pip install yfinance
@@ -45,7 +39,7 @@ The objective of this project is to predict stock prices specifically of Tesla u
    pip install -r requirements.txt
    ```
 
-4. Run the Jupyter Notebook:
+3. Run the Jupyter Notebook:
 
    ```bash
    jupyter notebook StockPricePred.ipynb

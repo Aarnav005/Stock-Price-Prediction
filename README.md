@@ -1,10 +1,3 @@
-# Stock-Price-Prediction
-I'll take a look at the code in the uploaded notebook and then create a README file based on it.
-
-The notebook contains code related to stock price prediction, and it involves the installation of libraries such as `yfinance`, `pandas`, and others. To create an effective README file, I'll outline the general structure and include specific details based on common practices for such projects. 
-
-### README.md
-
 ```markdown
 # Stock Price Prediction using Linear Regression
 
@@ -12,7 +5,7 @@ This project is a basic implementation of a stock price prediction model using l
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -21,7 +14,7 @@ This project is a basic implementation of a stock price prediction model using l
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
-## Introduction
+# Introduction
 
 This project demonstrates how to build a stock price prediction model using historical data and linear regression. The model is trained on data fetched from the Yahoo Finance API (`yfinance`) and is intended for educational purposes. It offers a simple introduction to financial data analysis and machine learning.
 

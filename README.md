@@ -19,6 +19,7 @@ The objective of this project is to predict stock prices specifically of Tesla u
 
    ```bash
    git clone https://github.com/Aarnav005/Stock-Price-Prediction.git
+   cd Stock-Price-Prediction
    ```
 
 2. Install the required libraries:
